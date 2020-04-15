@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.st;
 
 public class sword implements Weapon {
 

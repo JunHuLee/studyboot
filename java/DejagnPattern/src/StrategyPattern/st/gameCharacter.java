@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.st;
 
 public class gameCharacter {
 
@@ -15,5 +15,9 @@ public class gameCharacter {
     public void doubleattack() {
         weapon.doubleattack();
     }
+
+
+
+
 
 }

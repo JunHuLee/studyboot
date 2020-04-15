@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.st;
 
 public class strategyMain {
 
@@ -22,10 +22,5 @@ public class strategyMain {
         character.setWeapon(new gun());
         character.attack();
         character.doubleattack();
-
     }
-
-
-
-
 }
